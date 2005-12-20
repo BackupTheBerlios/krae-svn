@@ -1,0 +1,16 @@
+Begin3
+Title:          krae -- Some description
+Version:        0.3
+Entered-date:   
+Description:    
+Keywords:       KDE Qt
+Author:         Carles Company Soler <carles@companysoler.com>
+Maintained-by:  Carles Company Soler <carles@companysoler.com>
+Home-page:      
+Alternate-site: 
+Primary-site:   ftp://ftp.kde.org/pub/kde/unstable/apps/utils
+                xxxxxx  krae-0.3.tar.gz
+                xxx     krae-0.3.lsm
+Platform:       Linux. Needs KDE
+Copying-policy: GPL
+End
